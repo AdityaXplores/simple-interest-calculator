@@ -1,0 +1,12 @@
+# Contributing Guidelines
+
+Thank you for your interest in contributing!
+
+All contributions are welcome, including:
+- Bug reports
+- Bug fixes
+- Documentation improvements
+- Enhancements
+- New ideas
+
+Feel free to fork the repository and submit a pull request.
